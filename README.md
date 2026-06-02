@@ -21,10 +21,10 @@ I have started a 45-Day SDE Sheet Challenge to strengthen my Data Structures and
 
 ## Progress Tracker
 
-| Day    | Problems Solved | Status |
-| ------ | --------------- | ------ |
+| Day    | Problems Solved | Status  |
+| ------ | --------------- | ------  |
 | Day 01 | 3               | ✅      |
-| Day 02 | 0               | ⬜      |
+| Day 02 | 0               | ✅      |
 | Day 03 | 0               | ⬜      |
 | Day 04 | 0               | ⬜      |
 | Day 05 | 0               | ⬜      |
