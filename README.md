@@ -20,8 +20,8 @@ I have started a 45-Day SDE Sheet Challenge to strengthen my Data Structures and
 
 ## Statistics
 
-* Days Completed: 6/45
-* Total Problems Solved: 18
+* Days Completed: 7/45
+* Total Problems Solved: 21
 
 ---
 
